@@ -26,7 +26,9 @@ Step 9: Create a Plot for Pump Failures Over a Rolling Time Period
 Part II: Inferential Statistical Analysis
 
 •	Creation of Pearson Correlation Heatmaps
+
 •	Conducting regression analysis in Python using statsmodels.api library
+
 •	Plotting regressive model on secondary axes
 
 Step 10: Create a Heatmap
