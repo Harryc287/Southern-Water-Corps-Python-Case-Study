@@ -1,6 +1,8 @@
 This case study is composed of two parts
 
 Part I: Descriptive Statistics
+•	Demonstrates a mastery of the Pandas and Matplotlib libraries.  
+•	Showcases creations of box plots, line charts, filtering anomalous values using 1.5x IQR Method, use for loops to iterate data through a data frame series and understanding how to apply secondary axes to create combo charts.
 
 Step 1: Import Libraries
 
@@ -21,6 +23,9 @@ Step 8: Plot and Examine Each Column
 Step 9: Create a Plot for Pump Failures Over a Rolling Time Period
 
 Part II: Inferential Statistical Analysis
+•	Creation of Pearson Correlation Heatmaps
+•	Conducting regression analysis in Python using statsmodels.api library
+•	Plotting regressive model on secondary axes
 
 Step 10: Create a Heatmap
 
